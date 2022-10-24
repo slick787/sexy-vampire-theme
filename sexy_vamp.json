@@ -1,0 +1,155 @@
+{
+  "name": "sexy_vamp",
+  "description": "nsfw vampire",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "slick787#4121",
+      "id": "706241165090881548"
+    }
+  ],
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#000000"
+    ],
+    "HEADER_PRIMARY": [
+      "#800103",
+      "#060607"
+    ],
+    "HEADER_SECONDARY": [
+      "#800103",
+      "#4f5660"
+    ],
+    "TEXT_NORMAL": [
+      "#800103",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#800103",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#800103",
+      "#4f5660"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#800103",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#800103",
+      "#060607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#A0A8A8",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#000000",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#000000",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#800103",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#800103",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#800103"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#000000",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#800103",
+      "#6a7480"
+    ],
+    "TEXT_LINK": [
+      "#800103",
+      "#000000"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#800103",
+    "PRIMARY_DARK_100": "#800103",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#800103",
+    "PRIMARY_DARK_400": "#800103",
+    "PRIMARY_DARK_500": "#800103",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "PRIMARY_DARK_900": "#090909",
+    "BRAND_NEW": "#000000"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  },
+  "background": {
+    "blur": 1.0,
+    "url": "https://cdn.discordapp.com/attachments/849743303590936609/1034032927148888154/sexyvamp.jpg",
+    "alpha": 3.0
+  }
+}
